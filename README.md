@@ -1,16 +1,16 @@
-# Hi, am Wairimu
+# Hi,You can call me Wairimu,
 
 Data analyst based in Nairobi, Kenya. I work across sectors such as  finance, e-commerce, social impact, supply chain.Wherever raw data needs to become something useful. I build dashboards, monitoring systems, analytical models, and reports that help teams stop guessing and start deciding.
 
 ## What I work on
 
-💳 **Finance & Credit** — portfolio analysis, credit risk modelling, fraud detection, loan performance tracking across large borrower datasets
+💳 **Finance & Credit** : portfolio analysis, credit risk modelling, fraud detection, loan performance tracking across large borrower datasets
 
-🛒 **E-commerce & Retail** — sales trend analysis, supply chain performance, distributor network mapping, operational gap identification
+🛒 **E-commerce & Retail** :sales trend analysis, supply chain performance, distributor network mapping, operational gap identification
 
-📊 **M&E & Social Impact** — monitoring frameworks, indicator tracking, baseline and endline evaluations, donor reporting, field data collection systems
+📊 **M&E & Social Impact** :monitoring frameworks, indicator tracking, baseline and endline evaluations, donor reporting, field data collection systems
 
-🗂️ **Operations & Reporting** — Power BI dashboards, automated reporting pipelines, data quality assessments, stakeholder-ready documentation
+🗂️ **Operations & Reporting** : Power BI dashboards, automated reporting pipelines, data quality assessments, stakeholder-ready documentation
 
 ## Stack
 
@@ -22,9 +22,6 @@ Data analyst based in Nairobi, Kenya. I work across sectors such as  finance, e-
 - Data Analyst · **Data Science East Africa**
 - Data Science Programme · **Lux Dev Academy** (ongoing)
 
-## Specialized or generalist?
-
-Versatile by design. I have gone deep enough in finance, M&E, and operations analytics to own a problem end to end — but I do not panic when the sector changes. The discipline is the same: ask the right question, get clean data, communicate clearly. The context is just details.
 
 ## Good reasons to say hey
 
