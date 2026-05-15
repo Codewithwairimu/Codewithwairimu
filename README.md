@@ -1,4 +1,4 @@
-# Hey there,
+# Hey there!
 
 You can call me Wairimu,
 
@@ -16,8 +16,8 @@ I am a Data analyst based in Nairobi, Kenya. I work across sectors such as  fina
 
 ## Stack
 
-`Power BI` · `Python (Pandas, Matplotlib)` · `Advanced Excel` · `SPSS` · `Tableau`
-`Kobo Toolbox` · `ODK` · `SQL`
+`Power BI` · `Python (Pandas, Matplotlib)` · `Advanced Excel` · `SQL` · `Tableau`
+`Kobo Toolbox` · `ODK` · 
 
 ## Currently
 
