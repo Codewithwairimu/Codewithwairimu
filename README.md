@@ -2,7 +2,7 @@
 
 You can call me Wairimu,
 
-Data analyst based in Nairobi, Kenya. I work across sectors such as  finance, e-commerce, social impact, supply chain.Wherever raw data needs to become something useful. I build dashboards, monitoring systems, analytical models, and reports that help teams stop guessing and start deciding.
+I am a Data analyst based in Nairobi, Kenya. I work across sectors such as  finance, e-commerce, social impact, supply chain.Wherever raw data needs to become something useful. I build dashboards, monitoring systems, analytical models, and reports that help teams stop guessing and start deciding.
 
 ## What I work on
 
